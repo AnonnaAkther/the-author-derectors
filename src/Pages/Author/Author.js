@@ -1,8 +1,11 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import './Author.css';
 
-const Author = ({author}) => {
-    const {Name, Age, Salary, Country, img} =author
+const Author = (props) => {
+    const {Name, Age, Salary, Country, img} =props.author;
+    const element = <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon>
     return (
     <>
     <div className="card-group">
@@ -13,7 +16,11 @@ const Author = ({author}) => {
       <h5 className="card-text">Age :{Age}</h5>
       <h4 className="card-text">Salary :{Salary}</h4>
       <h4 className="card-text">Country :{Country}</h4>
-      <button className="btn btn-primary text-white">Add To Cart</button>
+      <button
+      onClick={()=>props.handleAddToCart(props.author)} 
+      className="btn btn-primary text-white">
+         {element} Add To Cart
+          </button>
     </div>
   </div>
 </div>
