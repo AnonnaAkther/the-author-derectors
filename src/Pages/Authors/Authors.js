@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import AddPlayer from '../AddPlayer/AddPlayer';
+import AddAuthor from '../AddAuthor/AddAuthor';
 import Author from '../Author/Author';
 import './Authors.css';
 
@@ -20,9 +20,9 @@ const Authors = () => {
 
     return (
         <>
-        <AddPlayer
+        <AddAuthor
         player={player}
-        ></AddPlayer>
+        ></AddAuthor>
         <div className="author-container">
             {
                 authors.map(author => <Author

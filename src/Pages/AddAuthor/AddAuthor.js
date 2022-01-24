@@ -1,6 +1,6 @@
 import React from 'react';
 
-const AddPlayer = (props) => {
+const AddAuthor = (props) => {
     const {player} = props;
     let total = 0;
 
@@ -17,4 +17,4 @@ const AddPlayer = (props) => {
     );
 };
 
-export default AddPlayer;
+export default AddAuthor;
