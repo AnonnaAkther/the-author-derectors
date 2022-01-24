@@ -1,0 +1,10 @@
+.author{
+    background-color: #e4d7d7;
+    border-radius: 10px;
+}
+.card{
+    background-color: rgb(171, 228, 228);
+}
+.author.img{
+    width: 100%;
+}

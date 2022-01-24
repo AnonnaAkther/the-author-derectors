@@ -1,0 +1,75 @@
+[
+    {
+        "Name":"H.p. Lovecrafta",
+        "img":"https://i.ibb.co/yfhKJGJ/17a81b06bc698c8111413255ba40a7a40336f373.webp",
+        "Age":50,
+        "Country":"America",
+        "id":1,
+        "Salary":"&7000000"
+    },
+        {
+            "Name":"William Topaz McGonagall",
+            "img":"https://i.ibb.co/mHGSNns/82d89ee97c058c5fe5f3045efe1daedf.jpg",
+            "Age":60,
+            "Country":"Scottish",
+            "id":2,
+            "Salary":"&7500000"
+            },
+            {
+                "Name":"Emily Dickinson",
+                "img":"https://i.ibb.co/6ZXPYcg/images.jpg",
+                "Age":65,
+                "Country":"America",
+                "id":3,
+                "Salary":"&8000000"
+            }
+                ,{
+                    "Name":"William Shakespeare",
+                    "img":"https://i.ibb.co/GxPtJj6/author-at-work.jpg",
+                    "Age":80,
+                    "Country":"America",
+                    "id":4,
+                    "Salary":"&9000000"
+                    }
+                    ,{
+                        "Name":"Arthur Conan Doyle",
+                        "img":"https://i.ibb.co/XYfWY0c/pensive-female-author-eyewear-looking-260nw-1099878575.webp",
+                        "Age":75,
+                        "Country":"America",
+                        "id":5,
+                        "Salary":"&10000000"
+                        }
+                        ,{
+                            "Name":"Alfred Tennyson",
+                            "img":"https://i.ibb.co/1QpMXCK/authors-day-fun.jpg",
+                            "Age":60,
+                            "Country":"United Kingdom",
+                            "id":6,
+                            "Salary":"&7000000"
+                            },
+                            {
+                                "Name":"Herbert George Wells",
+                                "img":"https://i.ibb.co/wS6JMpV/Portrait-of-cute-mixed-race-student-with-curly-hair-and-in-turtleneck-sitting-in-cafe-and-studying-f.jpg",
+                                "Age":78,
+                                "Country":"British",
+                                "id":7,
+                                "Salary":"&9500000"
+                                },
+                            {
+                                "Name":"Veronica Roth",
+                                "img":"https://i.ibb.co/rQmSKHx/Portrait-of-young-book-author-book-at-home-She-is-standing-in-front-of-her-desk-and-posing.jpg",
+                                "Age":58,
+                                "Country":"United kingdom",
+                                "id":8,
+                                "Salary":"&950000"
+                                },
+
+                                {
+                                    "Name":"Honore de Balzac",
+                                    "img":"https://i.ibb.co/tzZ3cGZ/Portrait-of-smiling-woman-wearing-spectacles-and-holding-pencil-while-sitting-at-desk-Business-woman.jpg",
+                                    "Age":50,
+                                    "Country":"German",
+                                    "id":9,
+                                    "Salary":"&8900000"
+                                    }
+                                ]
